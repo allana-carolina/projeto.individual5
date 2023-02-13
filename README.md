@@ -1,4 +1,4 @@
-Comandos ultilizados no Node.js command prompt 
+Comandos ultilizados no Node.js command prompt:
 
 npm init -y
 
