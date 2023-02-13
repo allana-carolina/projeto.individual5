@@ -1,6 +1,9 @@
 Comandos ultilizados no Node.js command prompt 
+
 npm init -y
+
 npm i express --save 
+
 npm i prompt-sync
 
 resultado no Node.js command prompt 
